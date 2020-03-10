@@ -1,2 +1,2 @@
-# Automatic-subtitle-translation
-friends 英文字幕自动翻译
+## 查找翻译
+friends 英文字幕自动查找翻译
